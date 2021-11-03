@@ -1,0 +1,1 @@
+export const sayHi = () => console.log("hello my friends 👋");
